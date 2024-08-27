@@ -1,0 +1,218 @@
+{
+  "heading": "Common noun and Proper noun.",
+  "topics": [
+    {
+      "heading": "Common noun and Proper noun.",
+      "questions": [
+        {
+            "questionNo": 1,
+            "question": "Which word is a proper noun?",
+            "options": [
+                "dog",
+                "cat",
+                "Sam",
+                "bird"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 2,
+            "question": "Fill in the blank with a common noun: <br> The _____ meowed for its dinner.",
+            "options": [
+                "cat",
+                "Nancy the cat"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 3,
+            "question": "What kind of noun is 'playground'?",
+            "options": [
+                "Proper noun",
+                "Common noun"
+            ],
+            "answer": 1,
+            "image":"./assests/images/playground.png"
+        },
+        {
+            "questionNo": 4,
+            "question": "Pick the proper noun:",
+            "options": [
+                "city",
+                "river",
+                "mountain",
+                "Australia"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 5,
+            "question": "Which word should start with a small letter?",
+            "options": [
+                "Monday",
+                "January",
+                "Week",
+                "Easter"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 6,
+            "question": "Find the common noun:",
+            "options": [
+                "Tuesday",
+                "pencil",
+                "April",
+                "London"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 7,
+            "question": "Which word is a common noun?",
+            "options": [
+                "Cinderella",
+                "princess",
+                "Snow White"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 8,
+            "question": "What type of noun is 'ocean'?",
+            "options": [
+                "Common noun",
+                "Proper noun"
+            ],
+            "answer": 0,
+            "image":"./assests/images/oceans.png"
+        },
+        {
+            "questionNo": 9,
+            "question": "Which word is a proper noun?",
+            "options": [
+                "toy",
+                "game",
+                "Jenga",
+                "puzzle"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 10,
+            "question": "What kind of noun is 'pizza'?",
+            "options": [
+                "Common noun",
+                "Proper noun"
+            ],
+            "answer": 0,
+            "image":"./assests/images/pizza.png"
+        },
+        {
+            "questionNo": 11,
+            "question": "Which word should have a capital letter?",
+            "options": [
+                "sandwich",
+                "burger",
+                "fries",
+                "mcdonald's"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 12,
+            "question": "What type of noun is 'elephant'?",
+            "options": [
+                "Common noun",
+                "Proper noun"
+            ],
+            "answer": 0,
+            "image":"./assests/images/elephant.png"
+        },
+        {
+            "questionNo": 13,
+            "question": "Find the common noun:",
+            "options": [
+                "Sydney",
+                "January",
+                "ocean",
+                "Easter"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 14,
+            "question": "“Birthday” is a _______ noun.",
+            "options": [
+                "proper",
+                "common"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 15,
+            "question": "Which word is misspelled?",
+            "options": [
+                "Boy",
+                "Gril",
+                "Toy",
+                "City"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 16,
+            "question": "What kind of noun is 'bicycle'?",
+            "options": [
+                "Proper noun",
+                "Common noun"
+            ],
+            "answer": 1,
+            "image":"./assests/images/cycle.png"
+        },
+        {
+            "questionNo": 17,
+            "question": "Fill in the blank with a common noun:<br> A _____ drove down the street.",
+            "options": [
+                "Nancy",
+                "Car"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 18,
+            "question": "Fill in the blank with a common noun: <br>The _____ rang when it was time for recess.",
+            "options": [
+                "Albert",
+                "Bell"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 19,
+            "question": "Who is she?",
+            "options": [
+                "Person",
+                "Place",
+                "Thing"
+            ],
+            "answer": 0,
+            "image":"./assests/images/1.png"
+        },
+        {
+            "questionNo": 20,
+            "question": " What is this?",
+            "options": [
+                "Person",
+                "Place",
+                "Thing"
+            ],
+            "answer": 2,
+            "image":"./assests/images/table.png"
+        }
+    ]
+    
+    
+    }
+  ]
+}
